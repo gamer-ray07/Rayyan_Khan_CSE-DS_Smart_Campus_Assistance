@@ -42,3 +42,25 @@ https://github.com/gamer-ray07/Rayyan_Khan_CSE-DS_Smart_Campus_Assistance/tree/m
 - **Tools:** Figma
 
 ---
+
+## Run Project
+
+1. **Clone the Repository**
+'''bash
+git clone https://github.com/gamer-ray07/Rayyan_Khan_CSE-DS_Smart_Campus_Assistance/tree/master
+'''
+
+2. **Navigate to the Project Directory**
+'''bash
+cd Smart_Campus_Assistance
+'''
+
+3. **Install Dependencies**
+'''bash
+npm install
+'''
+
+4. **Run  the Server**
+'''bash
+npm  start
+'''
